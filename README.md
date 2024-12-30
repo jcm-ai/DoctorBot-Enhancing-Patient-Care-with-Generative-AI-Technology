@@ -38,6 +38,7 @@ conda env remove -n "environment name"
 ```
 
 **STEP 02- Install the required packages**
+
 *Install the required packages using `pip` or `conda`. For example, to `install` the required packages using `pip` , run the following command:*
 ```Bash
 pip install -r requirements.txt
