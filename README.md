@@ -55,3 +55,4 @@ git commit -m "Your commit message"
 git push origin main
 ```
 
+### In the root directory, create a `.env` file and add your `Pinecone` and `OpenAI` credentials as shown below:
