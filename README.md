@@ -56,3 +56,9 @@ git push origin main
 ```
 
 ### In the root directory, create a `.env` file and add your `Pinecone` and `OpenAI` credentials as shown below:
+```Bash
+PINECONE_API_KEY = "*************************************"
+```
+```Bash
+OPENAI_API_KEY = "*************************************"
+```
